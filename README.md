@@ -7,7 +7,7 @@ Analyzing rideshare data
 
 ## Results
 
-[Multiple Line Graph](https://github.com/MServ/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+[Multiple Line Graph](analysis/PyBer_fare_summary.png)
 
 ## Summary
 
